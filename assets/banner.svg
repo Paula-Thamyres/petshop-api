@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">Pet Shop API · Design Patterns com Java e Spring Boot</title>
+  <rect width="1200" height="260" fill="#FAB9FF"/>
+  <circle cx="10" cy="282" r="90" fill="#FA5A50"/>
+  <circle cx="1120" cy="-20" r="150" fill="#690037"/>
+  <path d="M700 260 A80 80 0 0 1 860 260 Z" fill="#FA5A50"/>
+  <g fill="#690037" transform="translate(980 150) rotate(-14)">
+    <ellipse cx="0" cy="22" rx="34" ry="28"/>
+    <ellipse cx="-38" cy="-16" rx="12" ry="16"/>
+    <ellipse cx="-14" cy="-38" rx="12" ry="16"/>
+    <ellipse cx="14" cy="-38" rx="12" ry="16"/>
+    <ellipse cx="38" cy="-16" rx="12" ry="16"/>
+  </g>
+  <g fill="#FA5A50" transform="translate(1100 215) rotate(18) scale(0.55)">
+    <ellipse cx="0" cy="22" rx="34" ry="28"/>
+    <ellipse cx="-38" cy="-16" rx="12" ry="16"/>
+    <ellipse cx="-14" cy="-38" rx="12" ry="16"/>
+    <ellipse cx="14" cy="-38" rx="12" ry="16"/>
+    <ellipse cx="38" cy="-16" rx="12" ry="16"/>
+  </g>
+  <text x="80" y="118" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="66" fill="#690037">Pet Shop API</text>
+  <text x="80" y="172" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#690037">Design Patterns com Java e Spring Boot</text>
+</svg>
